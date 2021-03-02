@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently excited to learn **React, Angular, Java, Python, and ReactNative!**
 
-- 👨‍💻 All of my projects are available at [https://jeishu.github.io/](https://jeishu.github.io/)
+- 👨‍💻 All of my projects are available at [Jeishu](https://jeishu.github.io/)
 
 - 📫 How to reach me **jeremy.zhu@utexas.edu**
 
-- 📄 My Resume [https://docs.google.com/document/d/1BoyU6fe34VhklL0bDYsdD1YoUNanwIYkCxz_YiHcW-E/edit](https://docs.google.com/document/d/1BoyU6fe34VhklL0bDYsdD1YoUNanwIYkCxz_YiHcW-E/edit)
+- 📄 My Resume [Resume](https://docs.google.com/document/d/1BoyU6fe34VhklL0bDYsdD1YoUNanwIYkCxz_YiHcW-E/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jeremyishungry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jeremyishungry" height="30" width="40" /></a>
+<a href="https://twitter.com/jeremyishungry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jeremyishungry" height="30" width="40 /></a>
 <a href="https://linkedin.com/in/jeremy-zhu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jeremy-zhu" height="30" width="40" /></a>
 <a href="https://instagram.com/jeremyishungry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jeremyishungry" height="30" width="40" /></a>
 </p>
