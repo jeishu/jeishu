@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jeremy.zhu@utexas.edu**
 
-- 📄 My Resume [Resume](https://docs.google.com/document/d/1BoyU6fe34VhklL0bDYsdD1YoUNanwIYkCxz_YiHcW-E/edit)
+- 📄 [My Resume](https://docs.google.com/document/d/1BoyU6fe34VhklL0bDYsdD1YoUNanwIYkCxz_YiHcW-E/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
